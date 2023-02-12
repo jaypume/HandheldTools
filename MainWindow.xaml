@@ -1,0 +1,12 @@
+﻿<Window x:Class="HandheldTools.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HandheldTools"
+        xmlns:tools="clr-namespace:HandheldTools.Tools"
+        mc:Ignorable="d"
+        Title="掌机控制小工具" 
+        WindowStartupLocation="Manual" Top="0"
+        ResizeMode="CanMinimize" Topmost="True" Width="600" Height="1080" HorizontalAlignment="Right" VerticalAlignment="Top" HorizontalContentAlignment="Right"
+        />
